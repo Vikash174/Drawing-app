@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Drawing app</string>
+    <string name="image_small">image small</string>
+    <string name="image_medium">image_medium</string>
+    <string name="image_large">image_large</string>
+    <string name="brush_image">brush image</string>
+    <string name="color_pallet">color_pallet</string>
+    <string name="background_imageview">background imageView</string>
+</resources>
